@@ -5,7 +5,10 @@
 }
 .post__body {
     flex: 1;
-    padding: 10px;
+}
+p {
+    margin: 0;
+    padding: 0;
 }
 .post__body > img {
     border-radius: 20px;
@@ -34,5 +37,5 @@
     color: gray;
 }
 .post__avatar {
-    padding: 20px;
+    padding: 15px;
 }
